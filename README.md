@@ -1,6 +1,8 @@
 Snake and Ladder Game
 JAVA | SPRINGBOOT
+
 Introduction:
+
 The Snake and Ladder Game is an implementation of the popular board game. In this game, players roll a dice to move along a game board filled with snakes and ladders, with the goal of reaching the final (100th) square first. Here you can access the game through only API endpoints.
 Game Rules:
 •	The game is played with two or more players.
